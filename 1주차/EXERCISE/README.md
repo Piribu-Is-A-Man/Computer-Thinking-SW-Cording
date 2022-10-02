@@ -135,12 +135,12 @@ print(100+200)
 print('100+200')
 ```
 ***
-## ** 3. 50과 30 두 값이 있을 경우, 이 값에 대한 사칙 연산을 다음과 같이 수행하는 프로그램을 작성하시오. 이때 각 출력문은 print(‘1 + 1 = ‘, 1 + 1)과 같이 출력문과 연산을 쉼표로 구분하시오.** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q3.py)
+## **3. 50과 30 두 값이 있을 경우, 이 값에 대한 사칙 연산을 다음과 같이 수행하는 프로그램을 작성하시오. 이때 각 출력문은 print(‘1 + 1 = ‘, 1 + 1)과 같이 출력문과 연산을 쉼표로 구분하시오.** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q3.py)
 
 ![image](https://user-images.githubusercontent.com/114078946/193456594-65fc2cc6-d03c-42cf-b68d-53884d9fdbbf.png)
 
 
-##### ** 풀이 및 해설**
+##### **풀이 및 해설**
 
 문제 안에 답이 있습니다.
 
@@ -158,11 +158,11 @@ print('50 / 30 =',50/30)
 50 / 30 = 1.6666666666666667
 ```
 ***
-## ** 4. 다음과 같이 출력되도록 triangle.py라는 프로그램을 작성한 후 파이썬 인터프리터에서 실행해 보시오.** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q4.py)
+## **4. 다음과 같이 출력되도록 triangle.py라는 프로그램을 작성한 후 파이썬 인터프리터에서 실행해 보시오.** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q4.py)
 
 ![image](https://user-images.githubusercontent.com/114078946/193456766-1a6987eb-3769-4d8d-9088-eed937a9d798.png)
 
-##### ** 풀이 및 해설**
+##### **풀이 및 해설**
 
 * 해결방법1 : print 여러번 사용하기
 ```python
@@ -196,7 +196,7 @@ for i in range(4):
 
 문자열끼리의 +연산도 가능함과 동시에 for문안의 i를 통해서 공백과 * 의 길이도 조절이 가능합니다.
 ***
-## ** 5.n 팩토리얼은 n * (n-1) * (n-2) * ... * 2 * 1로 정의한다. 이 정의를 바탕으로 다음 값을 구하는 프로그램을 작성해 보시오. ** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
+## **5.n 팩토리얼은 n * (n-1) * (n-2) * ... * 2 * 1로 정의한다. 이 정의를 바탕으로 다음 값을 구하는 프로그램을 작성해 보시오. ** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
 
 (1) 3!
 
@@ -206,7 +206,7 @@ for i in range(4):
 
 (4) 20!
 
-##### ** 풀이 및 해설**
+##### **풀이 및 해설**
 
 * 해결방법1 : 나열
 ```python
