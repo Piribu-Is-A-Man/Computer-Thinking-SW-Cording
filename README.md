@@ -1,16 +1,15 @@
+# 컴퓨팅사고와 SW코딩
 ## 컴퓨팅사고와 SW코딩
-### 컴퓨팅사고와 SW코딩
 
-#### 1주차
-[1주차 예제문제 코드 보러가기](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/tree/master/1%EC%A3%BC%EC%B0%A8/EXERCISE)
+### 1주차[예제문제 코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/tree/master/1%EC%A3%BC%EC%B0%A8/EXERCISE)
 
-#### 2주차
+### 2주차
 
 
-#### 3주차
+### 3주차
 
 
-#### 4주차
+### 4주차
 
 
 
