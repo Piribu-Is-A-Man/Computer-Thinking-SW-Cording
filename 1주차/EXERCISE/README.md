@@ -140,7 +140,7 @@ print('100+200')
 ![image](https://user-images.githubusercontent.com/114078946/193456594-65fc2cc6-d03c-42cf-b68d-53884d9fdbbf.png)
 
 
-##### ** 풀이 및 해설
+##### ** 풀이 및 해설**
 
 문제 안에 답이 있습니다.
 
@@ -162,7 +162,7 @@ print('50 / 30 =',50/30)
 
 ![image](https://user-images.githubusercontent.com/114078946/193456766-1a6987eb-3769-4d8d-9088-eed937a9d798.png)
 
-##### ** 풀이 및 해설
+##### ** 풀이 및 해설**
 
 * 해결방법1 : print 여러번 사용하기
 ```python
@@ -206,7 +206,7 @@ for i in range(4):
 
 (4) 20!
 
-##### ** 풀이 및 해설
+##### ** 풀이 및 해설**
 
 * 해결방법1 : 나열
 ```python
