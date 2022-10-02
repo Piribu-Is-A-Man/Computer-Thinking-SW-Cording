@@ -196,7 +196,7 @@ for i in range(4):
 
 문자열끼리의 +연산도 가능함과 동시에 for문안의 i를 통해서 공백과 * 의 길이도 조절이 가능합니다.
 ***
-## **5.n 팩토리얼은 n * (n-1) * (n-2) * ... * 2 * 1로 정의한다. 이 정의를 바탕으로 다음 값을 구하는 프로그램을 작성해 보시오. ** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
+## **5.n 팩토리얼은 n * (n-1) * (n-2) * ... * 2 * 1로 정의한다. 이 정의를 바탕으로 다음 값을 구하는 프로그램을 작성해 보시오.** [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/1%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
 
 (1) 3!
 
