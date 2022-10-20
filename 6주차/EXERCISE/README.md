@@ -151,7 +151,7 @@ print('{}에서 {}까지의 정수들의 최소 공배수는 : {}'.format(a,b,fi
 
 ***
 
-### Q5.	분자가 1인 분수를 단위 분수라고 한다. 1보다 작은 소수값이 주어졌을 때 이 소수값에 가장 가까운 단위 분수를 찾는 함수 def unit_fraction(frac)을 구현하자. <br>예를 들어 0.27이 주어지면 1/3은 0.33333….이고 1/4는 0.25이며 1/5는 0.2이므로 1/4가 가장 가까운 단위분수이다. 이렇게 가장 가까운 단위분수를 찾아 출력하고 이 단위분수를 소수값으로 표현한 결과도 같이 출력하여라. [코드[(https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/6%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
+### Q5.	분자가 1인 분수를 단위 분수라고 한다. 1보다 작은 소수값이 주어졌을 때 이 소수값에 가장 가까운 단위 분수를 찾는 함수 def unit_fraction(frac)을 구현하자. <br>예를 들어 0.27이 주어지면 1/3은 0.33333….이고 1/4는 0.25이며 1/5는 0.2이므로 1/4가 가장 가까운 단위분수이다. 이렇게 가장 가까운 단위분수를 찾아 출력하고 이 단위분수를 소수값으로 표현한 결과도 같이 출력하여라. [코드](https://github.com/Piribu-Is-A-Man/Computer-Thinking-SW-Cording/blob/master/6%EC%A3%BC%EC%B0%A8/EXERCISE/Q5.py)
 
 ![image](https://user-images.githubusercontent.com/114078946/195344550-cbfd297f-38f0-4bf5-ac2a-90e58f00d4cc.png)
 
