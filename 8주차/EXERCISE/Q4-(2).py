@@ -1,0 +1,7 @@
+f=open('hello.txt','a')
+f.write('Welcome to Python!')
+print('hello.txt 파일 : ')
+f.close()
+f=open('hello.txt','r')
+print(f.read())
+f.close()
